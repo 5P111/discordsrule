@@ -2,6 +2,7 @@
 1. don't spam chat 1 wp.
 2. don't write in wrong chat 1 wp.
 3. don't write bad words 1 wp.
+4. don't hack 5 wp.
 
 # WP = Warning point
 1. 1 wp = warning 

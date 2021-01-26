@@ -1,6 +1,7 @@
 # Rules
 1. don't spam chat 1 wp.
-2. don't 
+2. don't write in wrong chat 1 wp.
+3.
 
 # WP = Warning point
 1. 1 wp = warning 

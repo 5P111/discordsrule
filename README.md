@@ -3,8 +3,8 @@
 2. don't write in wrong chat 1 wp.
 3. don't write bad words 1 wp.
 4. don't bully 1 wp.
-5. don't hack discord 5 wp.
-6. don't
+5. don't Showing inappropriate images 2 wp.
+6. don't hack discord 5 wp.
 
 # WP = Warning point
 1. 1 wp = warning 

@@ -10,3 +10,7 @@
 3. 3 wp = delete role
 4. 4 wp = kick
 5. 5 wp = ban 
+
+echo Hello, world!
+echo Add other actions to build,
+echo test, and deploy your project.

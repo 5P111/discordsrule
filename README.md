@@ -9,13 +9,13 @@
 6. don't hack discord 5 wp.
 
 <-(-Do-)->
-1. respect each other
-2. Before playing Valorant, you must tell everyone. If they turn off the mic, send via chat
+1. respect each other 1 wp
+2. Before playing Valorant, you must tell everyone. If they turn off the mic, send via chat 1 wp
 
 # WP = Warning point
-1. 1 wp = warning 
-2. 2 wp = mute 
-3. 3 wp = delete role
-4. 4 wp = kick
+1. 1 wp = warning  
+2. 2 wp = mute  
+3. 3 wp = delete role 
+4. 4 wp = kick 
 5. 5 wp = ban 
 

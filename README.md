@@ -10,7 +10,8 @@
 
 <-(-Do-)->
 1. respect each other
- 
+2. Before playing Valorant, you must tell everyone. If they turn off the mic, send via chat
+
 # WP = Warning point
 1. 1 wp = warning 
 2. 2 wp = mute 

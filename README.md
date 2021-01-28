@@ -14,7 +14,7 @@
 
 # WP = Warning point
 1. 1 wp = warning  
-2. 2 wp = mute  
+2. 2 wp = mute for 2 m
 3. 3 wp = delete role 
 4. 4 wp = kick 
 5. 5 wp = ban 
